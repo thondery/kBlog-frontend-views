@@ -1,0 +1,31 @@
+{
+  "name": "kblog-frontend-views",
+  "version": "1.0.0",
+  "description": "kBlog 网站前端模版采用Swig模版引擎制作",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thondery@github.com/thondery/kBlog-frontend-views.git"
+  },
+  "author": "thondery <thondery@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thondery/kBlog-frontend-views/issues"
+  },
+  "homepage": "https://github.com/thondery/kBlog-frontend-views#readme",
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-stage-0": "^6.5.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-swig": "^0.8.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
