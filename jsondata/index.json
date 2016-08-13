@@ -1,0 +1,7 @@
+{
+  "title": "kBlog",
+  "keywords": "node.js, express, es6, babel, webpack, mongodb",
+  "description": "一个基于Express框架的个人博客系统",
+  "entry": "index",
+  "style": "index"
+}
